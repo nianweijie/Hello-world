@@ -2,7 +2,7 @@ red
 orange
 yellow
 green
-light blue
+indigo blue
 
 
 these are colors of my rainbow
