@@ -1,4 +1,5 @@
 red
+pink
 orange
 yellow
 green
